@@ -105,7 +105,7 @@ g++ mess_management.cpp -o mess_management.exe
 
 ## 👨‍💻 Author
 
-- Name: [Your Name]
+- Name: Iqra Tariq
 - Semester: 1st Semester, BS Computer Science
 
 ---
